@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1632842852 source:c:\users\user\documents\microcontroller programmeren\brugbesturing\fuse.c
+	<avr/io.h>
+
+1633693318 source:c:\users\user\documents\microcontroller programmeren\brugbesturing\main.c
+	<avr/io.h>
+	<util/delay.h>
+	"servo.h"
+	"h_bridge.h"
+
+1601558743 c:\users\user\documents\microcontroller programmeren\brugbesturing\servo.h
+
+1601559368 c:\users\user\documents\microcontroller programmeren\brugbesturing\h_bridge.h
+
+1601561593 source:c:\users\user\documents\microcontroller programmeren\brugbesturing\h_bridge.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	"h_bridge.h"
+
+1632492336 source:c:\users\user\documents\microcontroller programmeren\brugbesturing\servo.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	"servo.h"
+
+1634023740 source:a:\brugbesturing (1)\fuse.c
+	<avr/io.h>
+
+1634023740 source:a:\brugbesturing (1)\h_bridge.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	"h_bridge.h"
+
+1634023740 a:\brugbesturing (1)\h_bridge.h
+
+1634023740 source:a:\brugbesturing (1)\servo.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	"servo.h"
+
+1634023740 a:\brugbesturing (1)\servo.h
+
+1634213351 source:c:\users\peter\onedrive\documenten\de haagse hogeschool\mechatronica p1\project mechatronica\project\brugbesturing (1)\fuse.c
+	<avr/io.h>
+
+1634213351 source:c:\users\peter\onedrive\documenten\de haagse hogeschool\mechatronica p1\project mechatronica\project\brugbesturing (1)\h_bridge.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	"h_bridge.h"
+
+1634213351 c:\users\peter\onedrive\documenten\de haagse hogeschool\mechatronica p1\project mechatronica\project\brugbesturing (1)\h_bridge.h
+
+1636490698 source:c:\users\peter\onedrive\documenten\de haagse hogeschool\mechatronica p1\project mechatronica\project\brugbesturing (1)\main.c
+	<avr/io.h>
+	<util/delay.h>
+	<avr/interrupt.h>
+	"servo.h"
+	"h_bridge.h"
+
+1634213351 c:\users\peter\onedrive\documenten\de haagse hogeschool\mechatronica p1\project mechatronica\project\brugbesturing (1)\servo.h
+
+1634213351 source:c:\users\peter\onedrive\documenten\de haagse hogeschool\mechatronica p1\project mechatronica\project\brugbesturing (1)\servo.c
+	<avr/io.h>
+	<avr/interrupt.h>
+	"servo.h"
+
